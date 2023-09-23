@@ -1,0 +1,156 @@
+{
+  "project_info": {
+    "project_number": "1097024269270",
+    "firebase_url": "https://girlsproject-50f35-default-rtdb.firebaseio.com",
+    "project_id": "girlsproject-50f35",
+    "storage_bucket": "girlsproject-50f35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097024269270:android:c2d0f11172ce7fffebd277",
+        "android_client_info": {
+          "package_name": "com.quizapplications.classnotesapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097024269270-vvejr1r7vc5kvf3gk0l6ea26oa6ajv05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj6kSHw-7qwts4lOvNO24XK5b5B8xNUQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097024269270-vvejr1r7vc5kvf3gk0l6ea26oa6ajv05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097024269270:android:92d0d1fdfbe683c8ebd277",
+        "android_client_info": {
+          "package_name": "com.quizapplications.firebasesigninandsignout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097024269270-vvejr1r7vc5kvf3gk0l6ea26oa6ajv05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj6kSHw-7qwts4lOvNO24XK5b5B8xNUQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097024269270-vvejr1r7vc5kvf3gk0l6ea26oa6ajv05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097024269270:android:c122015877d3424aebd277",
+        "android_client_info": {
+          "package_name": "com.quizapplications.girlsfirebaselecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097024269270-vvejr1r7vc5kvf3gk0l6ea26oa6ajv05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj6kSHw-7qwts4lOvNO24XK5b5B8xNUQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097024269270-vvejr1r7vc5kvf3gk0l6ea26oa6ajv05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097024269270:android:964ebb1b1cf10368ebd277",
+        "android_client_info": {
+          "package_name": "com.quizapplications.orignalresultpiccamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097024269270-vvejr1r7vc5kvf3gk0l6ea26oa6ajv05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj6kSHw-7qwts4lOvNO24XK5b5B8xNUQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097024269270-vvejr1r7vc5kvf3gk0l6ea26oa6ajv05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097024269270:android:1a835e974c7e3eacebd277",
+        "android_client_info": {
+          "package_name": "com.quizapplications.testproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097024269270-vvejr1r7vc5kvf3gk0l6ea26oa6ajv05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj6kSHw-7qwts4lOvNO24XK5b5B8xNUQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097024269270-vvejr1r7vc5kvf3gk0l6ea26oa6ajv05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
